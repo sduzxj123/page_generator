@@ -1,15 +1,15 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "我没有论文"
 authors:
-- Your Full Name
-- Author Name
+- Ren ZhenYu
+- 忧伤的向日葵
 date: "2016-09-01"
 
-publication: "Journal of Machine Learning"
+publication: "Journal of 瞎bb"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
+    pdf: https://github.com/rzy0901
+    code: https://github.com/rzy0901
+    slides: https://github.com/rzy0901
+    video: https://github.com/rzy0901
 ---
