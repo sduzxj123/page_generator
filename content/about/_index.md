@@ -26,7 +26,7 @@ affiliations:
         email: "11812214@mail.sustech.edu.cn; zren664@gmail.com; 2391928709@qq.com;"
     - affiliation:
         title: "intern (student)"
-        name: " Huawei Technoloy"
+        name: " Huawei Technology"
         email: "renzhenyu1@huawei.com;"
 
 academia:
@@ -39,7 +39,7 @@ academia:
         other_info: 'supervised by Prof. Wang Rui.'
     - course:
         degree: "Internship."
-        institution: 'Huawei Technoloy, WT (Wireless Technology) LAB'
+        institution: 'Huawei Technology, WT (Wireless Technology) LAB'
         major: 'Technical Research'
         start_date: '2021.6'
         # end_date: '2022'
