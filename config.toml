@@ -1,7 +1,7 @@
 baseURL = "https://rzy0901.github.io/"
 
 # set your your own ga token here.
-googleAnalytics = "UA/G-123123-12"
+googleAnalytics = "291750536"
 
 languageCode = "en-us"
 
