@@ -34,7 +34,7 @@ tags: ["hello world"]
 
 + Hello World: pictures
 
-  <img src="blog1.assets/image-20211031095456052.png" style="zoom:25%;" />
+  ![](blog1.assets/image-20211031095456052.png)
 
   + Note for pictures:
   	+  I need to move the picture folder to the same directory of html. Example:
