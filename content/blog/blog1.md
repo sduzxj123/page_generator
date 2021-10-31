@@ -1,45 +1,52 @@
 ---
-title: "Secrets To ML – Even In This Down Economy"
+title: "Hello World: My first Blog"
 
-date: "2018-05-18"
+date: "2021-10-31"
 
-tags: ["ml", "economy", "machine-learning", "ai"]
+tags: ["hello world"]
 
 
-links:
-    website: 'https://github.com/hadisinaee/avicenna'
-    alias: link_name_here
+#links:
+    #website: 'https://github.com/hadisinaee/avicenna'
+    #alias: link_name_here
 ---
-Nulla fermentum blandit metus sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
 
 {{< table_of_contents >}}
 
 # Header `I`
 
-Nulla `fermentum blandit metus` sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
++ Hello World: Code Block.
 
-## Header 2
+  ```c++
+  #include<iostream>
+  using namespace std;
+  int main()
+  {
+      cout << "Hello World!" << endl;
+  	return 0;
+  }
+  ```
 
-Nulla fermentum blandit metus sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
++ Hello World: equation
+  $$
+  A = B*C \tag{1}
+  $$
 
-```go
-package main
++ Hello World: pictures
 
-func main() {
-    println("Hello, World!")
-}
+  <img src="blog1.assets/image-20211031095456052.png" style="zoom:25%;" />
 
-```
-
-### Header 3
-
-Nulla fermentum blandit metus sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
-
-### Header 4
-Nulla `fermentum blandit metus` sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
-
-Nulla `fermentum blandit metus` sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
+  + Note for pictures:
+  	+  I need to move the picture folder to the same directory of html. Example:
+  
+  	```
+  	# In the root path of our page_generator project:
+  	$ mv public/blog/blog1.assets public/blog/blog1/ 
+  	```
+  	
+  	+ Or maybe I could set up a specific repositories to save all my pictures online. 
 
 # Header `II`
 
-Nulla fermentum blandit metus sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
++ ​	Null.
+
