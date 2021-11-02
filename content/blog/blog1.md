@@ -34,18 +34,15 @@ tags: ["hello world"]
 
 + Hello World: pictures
 
-  {{< figure src="blog1.assets/image-20211031095456052.png" title="Paul George" width="400px" >}}
+  codes I use in `blog1.md`:
+  
+  ```html
+  # \{ refers to { 
+  \{\{< figure src="blog1.assets/image-20211031095456052.png" title="Paul George" width="50%" >\}\}
+  ```
+  
+  {{< figure src="blog1.assets/image-20211031095456052.png" title="Paul George" width="50%" >}}
 
-  + Note for pictures:
-  	
-  	+  I need to move the picture folder to the same directory of html. Example:
-  	
-  	```
-  	# In the root path of our page_generator project:
-  	$ mv public/blog/blog1.assets public/blog/blog1/ 
-  	```
-  	
-  	+ Or maybe I could set up a specific repositories to save all my pictures online. 
 
 # Header `II`
 
