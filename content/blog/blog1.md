@@ -34,7 +34,7 @@ tags: ["hello world"]
 
 + Hello World: pictures
 
-  ![](blog1.assets/image-20211031095456052.png)
+  ![](blog1.assets/image-20211031095456052.png){:height="25" width="25"}
 
   + Note for pictures:
   	+  I need to move the picture folder to the same directory of html. Example:
