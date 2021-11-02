@@ -34,11 +34,12 @@ tags: ["hello world"]
 
 + Hello World: pictures
 
-  ![](blog1.assets/image-20211031095456052.png){:height="25" width="25"}
+  {{< figure src="blog1.assets/image-20211031095456052.png" title="Paul George" width="400px" >}}
 
   + Note for pictures:
+  	
   	+  I need to move the picture folder to the same directory of html. Example:
-  
+  	
   	```
   	# In the root path of our page_generator project:
   	$ mv public/blog/blog1.assets public/blog/blog1/ 
