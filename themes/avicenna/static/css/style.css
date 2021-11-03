@@ -23,6 +23,25 @@ body {
     max-width: 960px;
 }
 
+h1 {
+    color: #4A235A !important;
+}
+h2 {
+    color:#4A235A !important;
+}
+h3 {
+    color: #4A235A !important;
+}
+h4 {
+    color: #4A235A !important;
+}
+h5 {
+    color: #4A235A !important;
+}
+h6 {
+    color: #4A235A !important;
+}
+
 a {
     color: #4A235A ;
 }
