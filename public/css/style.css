@@ -1,7 +1,24 @@
+html {
+    /* background-color: #eeeeee; */
+    background-color: #192b50; 
+    /* background-color: #213e3e; */
+  }
 
+/* 主题颜色 */
 body {
     font-family: 'Inter', sans-serif;
     color: #071013;
+    background-color: #ffffff;
+    text-align:left; /* for IE */
+    margin-top: 30px; 
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left:  50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    max-width: 960px;
 }
 
 a {
