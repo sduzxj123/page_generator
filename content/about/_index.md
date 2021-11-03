@@ -16,14 +16,13 @@ socials:
 interests:
     - Wireless Communication
     - ISAC (Integrated Sensing And Communication)
-    - IEEE 802.11bf
-    - Federated Learning (edge computing)
+    - Federated Learning (Edge computing)
     - Convex Optimization
 affiliations:
     - affiliation:
         title: "U.G."
-        name: "Southern University of Science and Technology"
-        email: "11812214@mail.sustech.edu.cn; zren664@gmail.com; 2391928709@qq.com;"
+        name: "SUSTech"
+        email: "11812214@mail.sustech.edu.cn; zren664@gmail.com;"
     - affiliation:
         title: "intern (student)"
         name: " Huawei Technology"
@@ -45,8 +44,8 @@ academia:
         # end_date: '2022'
         other_info: 'supervised by Dr. Tony.HanXiao.'
 ---
-# About Me
-:one: I'm a Senior student in the Department of Electrical and Electronics Engineering at **Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/))**. I am currently studying in LAb of WirelesS communications and System Optimization (**LASSO**) and being supervised by **Prof. [Wang Rui](https://eee.sustech.edu.cn/p/wangrui/index.html)**.
+# [About Me](./cv.pdf)
++ I'm an undergradute student in the Department of Electrical and Electronics Engineering at **Southern University of Science and Technology** (**[SUSTech](https://www.sustech.edu.cn/en/)**). I am currently studying in **LAb of WirelesS communications and System Optimization** (**[LASSO](https://eee.sustech.edu.cn/p/wangrui/About%20LASSO.html)**) and being supervised by **Prof. [Wang Rui](https://eee.sustech.edu.cn/p/wangrui/index.html)**.
 
-:two: I'm also currently working as an internship student in the **Integrated Sensing And Communication ([ISAC](https://www.ieee-isac.org/))** group in Wireless Technology (**WT**) LAB of Huawei Technology. My supervisor at the company is **Dr. [Tony Han Xiao](https://scholar.google.com/citations?hl=en&user=cqvSehcAAAAJ)**.
++ I'm also currently working as an internship student in the **Integrated Sensing And Communication ([ISAC](https://www.ieee-isac.org/))** group in **Wireless Technology** (**WT**) LAB of Huawei Technology. My supervisor at the company is **Dr. [Tony Han Xiao](https://scholar.google.com/citations?hl=en&user=cqvSehcAAAAJ)**.
 
