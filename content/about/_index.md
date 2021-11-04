@@ -6,7 +6,7 @@ headless: true
 
 full_name: "Ren Zhenyu(任振裕)"
 profile_picture: "profile.png"
-cv: "cv.pdf"
+# cv: "cv.pdf"
 # set to false if you don't want to show your blog
 blog: true
 
